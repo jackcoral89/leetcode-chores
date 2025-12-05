@@ -10,5 +10,7 @@ import { organizeInventory } from "./aoc2024/day3";
 import { createXmasTree } from "./aoc2024/day4";
 
 // AOC 2025
+import { filterGifts } from "./aoc2025/day1";
 import { manufactureGifts } from "./aoc2025/day2";
 import { drawGift } from "./aoc2025/day3";
+import { decodeSantaPin } from "./aoc2025/day4";
