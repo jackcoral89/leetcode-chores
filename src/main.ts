@@ -17,3 +17,4 @@ import { drawGift } from "./aoc2025/day3";
 import { decodeSantaPin } from "./aoc2025/day4";
 import { timeUntilTakeOff } from "./aoc2025/day5";
 import { matchGloves } from "./aoc2025/day6";
+import { drawTree } from "./aoc2025/day7";
